@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/walter/Documents/androidworkspace/CameraAlbumDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/walter/Documents/androidworkspace/CameraAlbumDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_9b2cbe3a35ad8d2a223f2c38dfb050934dbb3cd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walter/Documents/androidworkspace/CameraAlbumDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a3a89503160aee6c59c08d316ad2d32bd361bcea">
+        <dex dex="/Users/walter/Documents/androidworkspace/CameraAlbumDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d50bd3e517939d5766824a35bad36d550cefb976/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walter/Documents/androidworkspace/CameraAlbumDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2804d2877010c0e1edfb8cee260f9f6f0e150a53">
+        <dex dex="/Users/walter/Documents/androidworkspace/CameraAlbumDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_58ca849bd611d56dac90d4d21e5b5c121bb54ea7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walter/Documents/androidworkspace/CameraAlbumDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/walter/Documents/androidworkspace/CameraAlbumDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_57442933255b95445f01e1a04a64ca0d17158037/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walter/Documents/androidworkspace/CameraAlbumDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/walter/Documents/androidworkspace/CameraAlbumDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_8176a7c8e456b2037f6d1777503ca2f0801cffaa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walter/Documents/androidworkspace/CameraAlbumDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/walter/Documents/androidworkspace/CameraAlbumDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_743df44139bfd7e24f950c8bc808808e4b825b92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walter/Documents/androidworkspace/CameraAlbumDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/walter/Documents/androidworkspace/CameraAlbumDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_851694270f63274a3e3e922d6dddd6ed45759a29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walter/Documents/androidworkspace/CameraAlbumDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/walter/Documents/androidworkspace/CameraAlbumDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_504e5170261b9a9e08cdc09c9f8ac8b030b5137d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walter/Documents/androidworkspace/CameraAlbumDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/walter/Documents/androidworkspace/CameraAlbumDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_02f1bfd4227c52a85bb417615e9f4a30a7201e6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walter/Documents/androidworkspace/CameraAlbumDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/walter/Documents/androidworkspace/CameraAlbumDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_09f8ddea0e751688978b7835467359bf344d84a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walter/Documents/androidworkspace/CameraAlbumDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/walter/Documents/androidworkspace/CameraAlbumDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_48efe171bedab404b6a077b293cdb32043fb6de8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walter/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/walter/Documents/androidworkspace/CameraAlbumDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_2e7f1f8d676668979f0f69529a4376fb597d7e1f/classes.dex" />
+    </item>
+
+</items>
